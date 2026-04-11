@@ -1,0 +1,26 @@
+*# ⚠️ MAXFIY FAYLLAR — HECH QACHON YUKLANMASIN
+.env
+*.env
+.env.local
+.env.production
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environmentы
+venv/
+.venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
