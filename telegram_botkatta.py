@@ -17,7 +17,8 @@ from typing import Dict, Any
 load_dotenv()
 
 logging.basicConfig(level=logging.INFO)
-
+BOT_TOKEN = "8625938437:AAE9EZBreYUYS24iseeC_MNOSsoSj68vstc"
+WEATHER_API_KEY = "8f0190e280b7ca0a214e84a4e6d50021"
 WEATHER_API_URL = "http://api.openweathermap.org/data/2.5/weather"
   
 
